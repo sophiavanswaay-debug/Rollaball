@@ -528,15 +528,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7119339668406980255, guid: 0cf8ff4a758574dba8c7a99019d2306f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.67
+      value: -0.63
       objectReference: {fileID: 0}
     - target: {fileID: 7119339668406980255, guid: 0cf8ff4a758574dba8c7a99019d2306f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5
+      value: 0.65
       objectReference: {fileID: 0}
     - target: {fileID: 7119339668406980255, guid: 0cf8ff4a758574dba8c7a99019d2306f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.48
+      value: 2.74
       objectReference: {fileID: 0}
     - target: {fileID: 7119339668406980255, guid: 0cf8ff4a758574dba8c7a99019d2306f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -721,15 +721,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7119339668406980255, guid: 0cf8ff4a758574dba8c7a99019d2306f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.98
+      value: -2.64
       objectReference: {fileID: 0}
     - target: {fileID: 7119339668406980255, guid: 0cf8ff4a758574dba8c7a99019d2306f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5
+      value: 0.97
       objectReference: {fileID: 0}
     - target: {fileID: 7119339668406980255, guid: 0cf8ff4a758574dba8c7a99019d2306f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.48
+      value: -1.7
       objectReference: {fileID: 0}
     - target: {fileID: 7119339668406980255, guid: 0cf8ff4a758574dba8c7a99019d2306f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -765,7 +765,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8066378218169289950, guid: 0cf8ff4a758574dba8c7a99019d2306f, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2941,7 +2941,7 @@ Transform:
   m_GameObject: {fileID: 1234116917}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 3.017, y: 0, z: 4.803}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2971,13 +2971,13 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 3
-  m_Acceleration: 2
+  m_Speed: 2.5
+  m_Acceleration: 20
   avoidancePriority: 50
-  m_AngularSpeed: 50
+  m_AngularSpeed: 360
   m_StoppingDistance: 0
   m_AutoTraverseOffMeshLink: 1
-  m_AutoBraking: 1
+  m_AutoBraking: 0
   m_AutoRepath: 1
   m_Height: 2
   m_BaseOffset: 0
@@ -3369,8 +3369,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1541940755}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5, z: 3}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0}
   m_LocalScale: {x: 0.5, y: 1, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
